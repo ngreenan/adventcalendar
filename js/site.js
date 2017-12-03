@@ -1,3 +1,19 @@
+$(document).ready(function() {
+  var today = new Date();
+  var dayToday = today.getDate();
+
+  //alert(dayToday);
+
+  $('.perspective').each(function () {
+    //get the door
+    var door = $(this).find('.door');
+    if (door.data('day') < dayToday) {
+      door.addClass('opendoor');
+      door.removeClass('closedoor');
+    }
+  });
+});
+
 $(document).on('click','.perspective', function () {
   //get child door element
   var door = $(this).find('.door');

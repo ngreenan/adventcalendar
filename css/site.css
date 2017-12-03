@@ -142,6 +142,73 @@ body {
 	background-image: url('../images/day2.jpg');
 }
 
+.perspective3 {
+ background-image: url('../images/day3.jpg');
+}
+.perspective4 {
+ background-image: url('../images/day4.jpg');
+}
+.perspective5 {
+ background-image: url('../images/day5.jpg');
+}
+.perspective6 {
+ background-image: url('../images/day6.jpg');
+}
+.perspective7 {
+ background-image: url('../images/day7.jpg');
+}
+.perspective8 {
+ background-image: url('../images/day8.jpg');
+}
+.perspective9 {
+ background-image: url('../images/day9.jpg');
+}
+.perspective10 {
+ background-image: url('../images/day10.jpg');
+}
+.perspective11 {
+ background-image: url('../images/day11.jpg');
+}
+.perspective12 {
+ background-image: url('../images/day12.jpg');
+}
+.perspective13 {
+ background-image: url('../images/day13.jpg');
+}
+.perspective14 {
+ background-image: url('../images/day14.jpg');
+}
+.perspective15 {
+ background-image: url('../images/day15.jpg');
+}
+.perspective16 {
+ background-image: url('../images/day16.jpg');
+}
+.perspective17 {
+ background-image: url('../images/day17.jpg');
+}
+.perspective18 {
+ background-image: url('../images/day18.jpg');
+}
+.perspective19 {
+ background-image: url('../images/day19.jpg');
+}
+.perspective20 {
+ background-image: url('../images/day20.jpg');
+}
+.perspective21 {
+ background-image: url('../images/day21.jpg');
+}
+.perspective22 {
+ background-image: url('../images/day22.jpg');
+}
+.perspective23 {
+ background-image: url('../images/day23.jpg');
+}
+.perspective24 {
+ background-image: url('../images/day24.jpg');
+}
+
 @media (max-width: 576px){
     .door {
 			width: 70vw;
